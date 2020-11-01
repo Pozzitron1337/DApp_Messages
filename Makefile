@@ -1,0 +1,2 @@
+make once:
+	node sendMessage.js 0x3D16f6C9fa5d61a548aebBFb96cd81dD25E46Eeb 0x6f2Ad27b42eed7c93794a54bceB1C6075d6E5aA9 'asdd asdd'
